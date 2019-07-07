@@ -1,3 +1,7 @@
 <!--pages/home/home.wxml-->
 <text class='title'>张展祥</text>
 <button>按钮</button>
+
+
+<view>知识点二</view>
+<view>heheh</view>
